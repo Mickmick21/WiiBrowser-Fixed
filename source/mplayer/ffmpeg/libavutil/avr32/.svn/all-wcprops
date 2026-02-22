@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavutil/avr32
+END
+intreadwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavutil/avr32/intreadwrite.h
+END
+bswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavutil/avr32/bswap.h
+END

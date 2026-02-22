@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/40/trunk/source/mplayer/drivers
+END
+README.Matrox
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/drivers/README.Matrox
+END
+README.Ati
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/drivers/README.Ati
+END
+generic_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/drivers/generic_math.h
+END
+hacking.ati
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/drivers/hacking.ati
+END
+mga_vid_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/drivers/mga_vid_test.c
+END
+mga_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/drivers/mga_vid.c
+END
+tdfx_vid_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/drivers/tdfx_vid_test.c
+END
+tdfx_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/drivers/tdfx_vid.c
+END
+3dfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/drivers/3dfx.h
+END
+radeon_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/drivers/radeon_vid.c
+END
+rage128_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/drivers/rage128_vid.c
+END
+mga_vid.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/drivers/mga_vid.h
+END
+tdfx_vid.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/drivers/tdfx_vid.h
+END
+radeon.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/drivers/radeon.h
+END
+radeon_vid.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/drivers/radeon_vid.h
+END

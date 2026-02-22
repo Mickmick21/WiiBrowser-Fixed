@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2
+END
+cpu_accel.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/cpu_accel.c
+END
+libmpeg2_changes.diff
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/libmpeg2_changes.diff
+END
+mpeg2.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/mpeg2.h
+END
+motion_comp_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/motion_comp_arm.c
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/decode.c
+END
+motion_comp.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/motion_comp.c
+END
+idct.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/idct.c
+END
+motion_comp_arm_s.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/motion_comp_arm_s.S
+END
+cpu_state.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/cpu_state.c
+END
+header.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/header.c
+END
+motion_comp_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/motion_comp_alpha.c
+END
+idct_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/idct_alpha.c
+END
+vlc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/vlc.h
+END
+alpha_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/alpha_asm.h
+END
+idct_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/idct_altivec.c
+END
+alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/alloc.c
+END
+motion_comp_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/motion_comp_altivec.c
+END
+attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/attributes.h
+END
+slice.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/slice.c
+END
+motion_comp_vis.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/motion_comp_vis.c
+END
+motion_comp_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/motion_comp_mmx.c
+END
+idct_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/idct_mmx.c
+END
+mmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/mmx.h
+END
+vis.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/vis.h
+END
+mpeg2_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/libmpeg2/mpeg2_internal.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/dhahelperwin
+END
+NMAKEFILE
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/dhahelperwin/NMAKEFILE
+END
+dhahelper.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/dhahelperwin/dhahelper.c
+END
+dhasetup.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/dhahelperwin/dhasetup.c
+END
+dhahelper.rc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/dhahelperwin/dhahelper.rc
+END
+dhahelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/dhahelperwin/dhahelper.h
+END
+common.ver
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/dhahelperwin/common.ver
+END
+SOURCES
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/dhahelperwin/SOURCES
+END
+ntverp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/dhahelperwin/ntverp.h
+END

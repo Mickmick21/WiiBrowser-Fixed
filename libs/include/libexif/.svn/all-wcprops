@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/124/trunk/libs/include/libexif
+END
+exif-loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/124/trunk/libs/include/libexif/exif-loader.h
+END
+exif-data-type.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/124/trunk/libs/include/libexif/exif-data-type.h
+END
+exif-format.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/124/trunk/libs/include/libexif/exif-format.h
+END
+exif-data.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/124/trunk/libs/include/libexif/exif-data.h
+END
+exif-mnote-data.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/124/trunk/libs/include/libexif/exif-mnote-data.h
+END
+exif-content.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/124/trunk/libs/include/libexif/exif-content.h
+END
+exif-tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/124/trunk/libs/include/libexif/exif-tag.h
+END
+_stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/124/trunk/libs/include/libexif/_stdint.h
+END
+exif-byte-order.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/124/trunk/libs/include/libexif/exif-byte-order.h
+END
+exif-mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/124/trunk/libs/include/libexif/exif-mem.h
+END
+exif-utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/124/trunk/libs/include/libexif/exif-utils.h
+END
+exif-log.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/124/trunk/libs/include/libexif/exif-log.h
+END
+exif-entry.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/124/trunk/libs/include/libexif/exif-entry.h
+END
+exif-ifd.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/124/trunk/libs/include/libexif/exif-ifd.h
+END

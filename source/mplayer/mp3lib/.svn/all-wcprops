@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib
+END
+dct12.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/dct12.c
+END
+l2tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/l2tables.h
+END
+mpg123.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/mpg123.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/test.c
+END
+decod386.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/decod386.c
+END
+dct36.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/dct36.c
+END
+dct36_k7.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/dct36_k7.c
+END
+dct64.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/dct64.c
+END
+dct64_k7.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/dct64_k7.c
+END
+huffman.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/huffman.h
+END
+tabinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/tabinit.c
+END
+dct64_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/dct64_altivec.c
+END
+layer1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/layer1.c
+END
+dct36_3dnow.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/dct36_3dnow.c
+END
+dct64_i386.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/dct64_i386.c
+END
+decode_i586.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/decode_i586.c
+END
+dct64_3dnow.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/dct64_3dnow.c
+END
+layer2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/layer2.c
+END
+dct64_sse.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/dct64_sse.c
+END
+layer3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/layer3.c
+END
+test2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/test2.c
+END
+equalizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/equalizer.c
+END
+mp3.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/mp3.h
+END
+decode_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/decode_mmx.c
+END
+dct64_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/dct64_mmx.c
+END
+sr1.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/mp3lib/sr1.c
+END

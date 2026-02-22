@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/40/trunk/source/mplayer/sub
+END
+vobsub.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/vobsub.h
+END
+subassconvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/sub/subassconvert.h
+END
+subreader.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/sub/subreader.c
+END
+subreader.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/sub/subreader.d
+END
+osd_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/sub/osd_template.c
+END
+osd_font.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/sub/osd_font.h
+END
+subreader.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/sub/subreader.h
+END
+osd.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/sub/osd.c
+END
+osd.d
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/sub/osd.d
+END
+find_sub.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/sub/find_sub.c
+END
+sub.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/sub/sub.c
+END
+find_sub.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/sub/find_sub.d
+END
+osd.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/sub/osd.h
+END
+sub.d
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/sub/sub.d
+END
+unrar_exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/sub/unrar_exec.c
+END
+spuenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/spuenc.c
+END
+spuenc.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/spuenc.d
+END
+sub.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/sub/sub.h
+END
+unrar_exec.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/sub/unrar_exec.h
+END
+spuenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/spuenc.h
+END
+font_load.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/sub/font_load.c
+END
+font_load.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/sub/font_load.h
+END
+av_sub.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/av_sub.c
+END
+av_sub.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/av_sub.d
+END
+ass_mp.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/ass_mp.c
+END
+spudec.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/spudec.c
+END
+ass_mp.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/ass_mp.d
+END
+av_sub.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/av_sub.h
+END
+spudec.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/spudec.d
+END
+ass_mp.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/ass_mp.h
+END
+spudec.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/spudec.h
+END
+eosd.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/sub/eosd.c
+END
+eosd.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/sub/eosd.d
+END
+sub_cc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/sub_cc.c
+END
+font_load_ft.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/sub/font_load_ft.c
+END
+font_load_ft.d
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/sub/font_load_ft.d
+END
+sub_cc.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/sub_cc.d
+END
+eosd.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/sub/eosd.h
+END
+vobsub.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/vobsub.c
+END
+subassconvert.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/sub/subassconvert.c
+END
+vobsub.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/vobsub.d
+END
+subassconvert.d
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/sub/subassconvert.d
+END
+sub_cc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/sub/sub_cc.h
+END

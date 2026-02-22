@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswscale/x86
+END
+yuv2rgb_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswscale/x86/yuv2rgb_mmx.c
+END
+w64xmmtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswscale/x86/w64xmmtest.c
+END
+swscale_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswscale/x86/swscale_mmx.c
+END
+rgb2rgb_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswscale/x86/rgb2rgb_template.c
+END
+scale.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswscale/x86/scale.asm
+END
+rgb2rgb.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswscale/x86/rgb2rgb.c
+END
+yuv2rgb_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswscale/x86/yuv2rgb_template.c
+END
+swscale_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswscale/x86/swscale_template.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswscale/x86/Makefile
+END
+input.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswscale/x86/input.asm
+END
+output.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswscale/x86/output.asm
+END

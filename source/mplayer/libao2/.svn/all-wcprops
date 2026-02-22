@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/source/mplayer/libao2
+END
+ao_jack.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_jack.c
+END
+audio_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/audio_out.c
+END
+ao_null.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_null.c
+END
+audio_out.d
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/audio_out.d
+END
+ao_esd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_esd.c
+END
+ao_null.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_null.d
+END
+audio_out.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/audio_out.h
+END
+ao_dxr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_dxr2.c
+END
+ao_pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_pcm.c
+END
+ao_pcm.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_pcm.d
+END
+ao_nas.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_nas.c
+END
+ao_sgi.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_sgi.c
+END
+ao_v4l2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_v4l2.c
+END
+ao_pulse.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_pulse.c
+END
+ao_mpegpes.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_mpegpes.c
+END
+ao_mpegpes.d
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_mpegpes.d
+END
+ao_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_win32.c
+END
+ao_oss.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_oss.c
+END
+ao_sun.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_sun.c
+END
+ao_arts.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_arts.c
+END
+ao_coreaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_coreaudio.c
+END
+audio_out_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/audio_out_internal.h
+END
+ao_openal.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_openal.c
+END
+ao_alsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_alsa.c
+END
+ao_sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_sdl.c
+END
+ao_ivtv.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_ivtv.c
+END
+ao_dart.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_dart.c
+END
+ao_dsound.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_dsound.c
+END
+ao_gekko.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_gekko.c
+END
+ao_gekko.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_gekko.d
+END
+ao_kai.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libao2/ao_kai.c
+END

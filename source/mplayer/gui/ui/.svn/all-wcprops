@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui
+END
+playbar.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/playbar.c
+END
+widgets.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/widgets.h
+END
+render.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/render.c
+END
+actions.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/actions.c
+END
+render.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/render.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/main.c
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/menu.c
+END
+gmplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gmplayer.h
+END
+actions.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/actions.h
+END
+video.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/video.c
+END
+widgets.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/widgets.c
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/source/mplayer/libass
+END
+ass_drawing.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_drawing.c
+END
+ass_fontconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_fontconfig.c
+END
+ass_drawing.d
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_drawing.d
+END
+ass_fontconfig.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_fontconfig.d
+END
+ass_drawing.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_drawing.h
+END
+ass_fontconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_fontconfig.h
+END
+ass_cache_template.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_cache_template.h
+END
+ass_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_cache.c
+END
+ass_library.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_library.c
+END
+ass_cache.d
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_cache.d
+END
+ass_library.d
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_library.d
+END
+ass_font.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_font.c
+END
+ass_font.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_font.d
+END
+ass_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_cache.h
+END
+ass_library.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_library.h
+END
+ass_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_parse.c
+END
+ass_parse.d
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_parse.d
+END
+ass_font.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_font.h
+END
+ass_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_parse.h
+END
+ass_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_utils.c
+END
+ass_utils.d
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_utils.d
+END
+ass_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_utils.h
+END
+ass_render_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_render_api.c
+END
+ass_render_api.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_render_api.d
+END
+ass_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_types.h
+END
+ass_bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_bitmap.c
+END
+ass_bitmap.d
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_bitmap.d
+END
+ass_strtod.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_strtod.c
+END
+ass_render.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_render.c
+END
+ass_render.d
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_render.d
+END
+ass_strtod.d
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_strtod.d
+END
+ass.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass.c
+END
+ass_bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_bitmap.h
+END
+ass.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass.d
+END
+ass_shaper.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_shaper.c
+END
+ass_shaper.d
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_shaper.d
+END
+ass_render.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_render.h
+END
+ass.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass.h
+END
+ass_shaper.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libass/ass_shaper.h
+END

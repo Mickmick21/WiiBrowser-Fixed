@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate
+END
+prores.mak
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/prores.mak
+END
+lossless-video.mak
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/lossless-video.mak
+END
+utvideo.mak
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/utvideo.mak
+END
+fft.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/fft.mak
+END
+als.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/als.mak
+END
+mpc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/mpc.mak
+END
+image.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/image.mak
+END
+aac.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/aac.mak
+END
+ea.mak
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/ea.mak
+END
+libavutil.mak
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/libavutil.mak
+END
+mp3.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/mp3.mak
+END
+audio.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/audio.mak
+END
+vcodec.mak
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/vcodec.mak
+END
+vorbis.mak
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/vorbis.mak
+END
+voice.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/voice.mak
+END
+microsoft.mak
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/microsoft.mak
+END
+video.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/video.mak
+END
+ac3.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/ac3.mak
+END
+probe.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/probe.mak
+END
+amrwb.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/amrwb.mak
+END
+dct.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/dct.mak
+END
+vpx.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/vpx.mak
+END
+bmp.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/bmp.mak
+END
+acodec.mak
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/acodec.mak
+END
+pcm.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/pcm.mak
+END
+screen.mak
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/screen.mak
+END
+demux.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/demux.mak
+END
+h264.mak
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/h264.mak
+END
+real.mak
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/real.mak
+END
+dpcm.mak
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/dpcm.mak
+END
+wma.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/wma.mak
+END
+qt.mak
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/qt.mak
+END
+adpcm.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/adpcm.mak
+END
+qtrle.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/qtrle.mak
+END
+cdxl.mak
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/cdxl.mak
+END
+dfa.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/dfa.mak
+END
+atrac.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/atrac.mak
+END
+libavcodec.mak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/libavcodec.mak
+END
+vqf.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/vqf.mak
+END
+wavpack.mak
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/wavpack.mak
+END
+indeo.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/indeo.mak
+END
+amrnb.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/amrnb.mak
+END
+lossless-audio.mak
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/lossless-audio.mak
+END
+mapchan.mak
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate/mapchan.mak
+END

@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech
+END
+svn-howto.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/svn-howto.txt
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/Doxyfile
+END
+dr-methods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/dr-methods.txt
+END
+swscaler_methods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/swscaler_methods.txt
+END
+nut.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/nut.txt
+END
+oggless-xiph-codecs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/oggless-xiph-codecs.txt
+END
+mpdsf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/mpdsf.txt
+END
+release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/release.sh
+END
+formats.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/formats.txt
+END
+swscaler_filters.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/swscaler_filters.txt
+END
+libvo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/libvo.txt
+END
+general.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/general.txt
+END
+colorspaces.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/colorspaces.txt
+END
+dvdnav-howto.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/dvdnav-howto.txt
+END
+encoding-guide.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/encoding-guide.txt
+END
+code-documentation.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/code-documentation.txt
+END
+codecs.conf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/codecs.conf.txt
+END
+libmpcodecs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/libmpcodecs.txt
+END
+snow.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/snow.txt
+END
+patches.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/patches.txt
+END
+new_policy_proposal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/new_policy_proposal.txt
+END
+wishlist
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/wishlist
+END
+codecs-in.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/codecs-in.html
+END
+mpsub.sub
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/mpsub.sub
+END
+crosscompile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/crosscompile.txt
+END
+encoding-tips.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/encoding-tips.txt
+END
+hwac3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/hwac3.txt
+END
+binary-packaging.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/binary-packaging.txt
+END
+playtree
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/playtree
+END
+manpage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/manpage.txt
+END
+libao2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/libao2.txt
+END
+slave.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/slave.txt
+END
+codec-devel.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/codec-devel.txt
+END
+win32-codec-howto.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/win32-codec-howto.txt
+END
+subcp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/subcp.txt
+END
+release-howto.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/release-howto.txt
+END
+translations.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/translations.txt
+END
+vidix.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/vidix.txt
+END
+osd.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/osd.txt
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/TODO
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/MAINTAINERS
+END

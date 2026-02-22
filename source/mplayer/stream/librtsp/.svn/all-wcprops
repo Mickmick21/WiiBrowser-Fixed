@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/stream/librtsp
+END
+rtsp_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/stream/librtsp/rtsp_session.h
+END
+rtsp_rtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/stream/librtsp/rtsp_rtp.h
+END
+rtsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/stream/librtsp/rtsp.c
+END
+rtsp.d
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/stream/librtsp/rtsp.d
+END
+rtsp_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/stream/librtsp/rtsp_session.c
+END
+rtsp_rtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/stream/librtsp/rtsp_rtp.c
+END
+rtsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/stream/librtsp/rtsp.h
+END

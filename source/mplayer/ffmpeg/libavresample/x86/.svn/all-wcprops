@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavresample/x86
+END
+util.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavresample/x86/util.asm
+END
+audio_mix.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavresample/x86/audio_mix.asm
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavresample/x86/Makefile
+END
+audio_convert.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavresample/x86/audio_convert.asm
+END
+audio_mix_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavresample/x86/audio_mix_init.c
+END
+audio_convert_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavresample/x86/audio_convert_init.c
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvdread
+END
+nav_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvdread/nav_types.h
+END
+ifo_read.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvdread/ifo_read.h
+END
+ifo_print.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvdread/ifo_print.h
+END
+dvd_udf.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvdread/dvd_udf.h
+END
+nav_read.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvdread/nav_read.h
+END
+dvd_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvdread/dvd_reader.h
+END
+nav_print.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvdread/nav_print.h
+END
+ifo_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvdread/ifo_types.h
+END
+bitreader.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvdread/bitreader.h
+END

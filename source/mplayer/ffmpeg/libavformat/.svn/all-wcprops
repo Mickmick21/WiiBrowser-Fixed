@@ -1,0 +1,3125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/83/trunk/source/mplayer/ffmpeg/libavformat
+END
+filmstripdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/filmstripdec.c
+END
+smjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/smjpeg.c
+END
+tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/tcp.c
+END
+filmstripdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/filmstripdec.d
+END
+smjpeg.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/smjpeg.d
+END
+smjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/smjpeg.h
+END
+c93.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/c93.c
+END
+c93.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/c93.d
+END
+apc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/apc.c
+END
+apc.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/apc.d
+END
+sctp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/sctp.c
+END
+gxfenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/gxfenc.c
+END
+hlsproto.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/hlsproto.c
+END
+dxa.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/dxa.c
+END
+dxa.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/dxa.d
+END
+caf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/caf.c
+END
+caf.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/caf.d
+END
+spdifenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/spdifenc.c
+END
+caf.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/caf.h
+END
+tls.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/tls.c
+END
+au.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/au.c
+END
+au.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/au.d
+END
+framecrcenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/framecrcenc.c
+END
+flvenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/flvenc.c
+END
+spdifdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/spdifdec.c
+END
+m4vdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/m4vdec.c
+END
+spdifdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/spdifdec.d
+END
+m4vdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/m4vdec.d
+END
+bmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/bmv.c
+END
+id3v1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/id3v1.c
+END
+id3v1.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/id3v1.d
+END
+id3v1.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/id3v1.h
+END
+sierravmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/sierravmd.c
+END
+sierravmd.d
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/sierravmd.d
+END
+oggparseflac.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggparseflac.c
+END
+oggparseflac.d
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggparseflac.d
+END
+flvdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/flvdec.c
+END
+allformats.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/allformats.c
+END
+flvdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/flvdec.d
+END
+allformats.d
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/allformats.d
+END
+loasdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/loasdec.c
+END
+ivfenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ivfenc.c
+END
+jacosubenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/jacosubenc.c
+END
+rdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rdt.c
+END
+wc3movie.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/wc3movie.c
+END
+rdt.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rdt.h
+END
+ivfdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ivfdec.c
+END
+ivfdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ivfdec.d
+END
+jacosubdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/jacosubdec.c
+END
+cutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/cutils.c
+END
+cutils.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/cutils.d
+END
+mtv.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mtv.c
+END
+mtv.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mtv.d
+END
+rtpdec_amr.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec_amr.c
+END
+rtpdec_g726.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec_g726.c
+END
+id3v2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/id3v2.c
+END
+id3v2.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/83/trunk/source/mplayer/ffmpeg/libavformat/id3v2.d
+END
+output-example.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/output-example.c
+END
+id3v2.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/id3v2.h
+END
+swf.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/swf.h
+END
+idroqenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/idroqenc.c
+END
+spdif.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/spdif.c
+END
+ape.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ape.c
+END
+lxfdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/lxfdec.c
+END
+pcmenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/pcmenc.c
+END
+spdif.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/spdif.d
+END
+ape.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ape.d
+END
+lxfdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/lxfdec.d
+END
+rtpdec_xiph.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec_xiph.c
+END
+spdif.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/spdif.h
+END
+vocenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/vocenc.c
+END
+rm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rm.c
+END
+rm.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rm.d
+END
+nsvdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/nsvdec.c
+END
+rm.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rm.h
+END
+nsvdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/nsvdec.d
+END
+movenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/movenc.c
+END
+idroqdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/idroqdec.c
+END
+idroqdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/idroqdec.d
+END
+pcmdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/pcmdec.c
+END
+pcmdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/pcmdec.d
+END
+movenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/movenc.h
+END
+diracdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/diracdec.c
+END
+diracdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/diracdec.d
+END
+psxstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/psxstr.c
+END
+vocdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/vocdec.c
+END
+vocdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/vocdec.d
+END
+psxstr.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/psxstr.d
+END
+tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/tty.c
+END
+tty.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/tty.d
+END
+eacdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/eacdata.c
+END
+eacdata.d
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/eacdata.d
+END
+rtpproto.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpproto.c
+END
+aviobuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/aviobuf.c
+END
+nutenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/nutenc.c
+END
+wv.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/wv.c
+END
+h261dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/h261dec.c
+END
+aviobuf.d
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/aviobuf.d
+END
+wv.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/wv.d
+END
+h261dec.d
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/h261dec.d
+END
+cavsvideodec.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/cavsvideodec.c
+END
+cavsvideodec.d
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/cavsvideodec.d
+END
+gsmdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/gsmdec.c
+END
+rso.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rso.c
+END
+gsmdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/gsmdec.d
+END
+rso.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rso.d
+END
+nut.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/nut.c
+END
+rtmpproto.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtmpproto.c
+END
+nut.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/nut.d
+END
+rso.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rso.h
+END
+nut.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/nut.h
+END
+metadata.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/metadata.c
+END
+metadata.d
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/metadata.d
+END
+dnxhddec.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/dnxhddec.c
+END
+dnxhddec.d
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/dnxhddec.d
+END
+nutdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/nutdec.c
+END
+nutdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/nutdec.d
+END
+bink.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/bink.c
+END
+bink.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/bink.d
+END
+metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/metadata.h
+END
+udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/udp.c
+END
+txd.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/txd.c
+END
+txd.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/txd.d
+END
+rtspcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtspcodes.h
+END
+flic.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/flic.c
+END
+flic.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/flic.d
+END
+mpjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mpjpeg.c
+END
+rtpenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpenc.c
+END
+mms.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mms.c
+END
+microdvdenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/microdvdenc.c
+END
+framehash.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/framehash.c
+END
+rtpenc_aac.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpenc_aac.c
+END
+rtpenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpenc.h
+END
+mms.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mms.h
+END
+iff.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/iff.c
+END
+iff.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/iff.d
+END
+rtpdec_qcelp.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec_qcelp.c
+END
+rtpdec_mpeg4.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec_mpeg4.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/file.c
+END
+audiointerleave.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/audiointerleave.c
+END
+rtpdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec.c
+END
+microdvddec.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/microdvddec.c
+END
+audiointerleave.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/audiointerleave.h
+END
+rtpdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec.h
+END
+mpegvideodec.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mpegvideodec.c
+END
+mpegvideodec.d
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mpegvideodec.d
+END
+avio_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avio_internal.h
+END
+sauce.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/sauce.c
+END
+sauce.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/sauce.d
+END
+gif.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/gif.c
+END
+sauce.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/sauce.h
+END
+wtvenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/wtvenc.c
+END
+url.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/url.h
+END
+concat.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/concat.c
+END
+oggparsetheora.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggparsetheora.c
+END
+oggparsetheora.d
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggparsetheora.d
+END
+pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/pcm.c
+END
+pcm.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/pcm.d
+END
+pcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/pcm.h
+END
+dfa.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/dfa.c
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/options.c
+END
+dfa.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/dfa.d
+END
+wtvdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/wtvdec.c
+END
+options.d
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/options.d
+END
+wtvdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/wtvdec.d
+END
+iss.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/iss.c
+END
+iss.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/iss.d
+END
+tmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/tmv.c
+END
+tmv.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/tmv.d
+END
+nuv.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/nuv.c
+END
+nuv.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/nuv.d
+END
+ffm.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ffm.h
+END
+mxfenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mxfenc.c
+END
+pva.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/pva.c
+END
+rtmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtmp.h
+END
+pva.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/pva.d
+END
+rtpenc_amr.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpenc_amr.c
+END
+rtpenc_chain.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpenc_chain.c
+END
+mgsts.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mgsts.c
+END
+rtpenc_chain.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpenc_chain.h
+END
+rtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtp.c
+END
+mxfdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mxfdec.c
+END
+mxfdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mxfdec.d
+END
+options_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/options_table.h
+END
+rtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtp.h
+END
+oggparsedirac.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggparsedirac.c
+END
+oggparsedirac.d
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggparsedirac.d
+END
+oma.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oma.c
+END
+oggparsespeex.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggparsespeex.c
+END
+oma.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oma.d
+END
+oggparsespeex.d
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggparsespeex.d
+END
+rtpdec_vp8.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec_vp8.c
+END
+vc1testenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/vc1testenc.c
+END
+wtv.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/wtv.c
+END
+oma.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oma.h
+END
+wtv.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/wtv.d
+END
+gopher.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/gopher.c
+END
+wtv.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/wtv.h
+END
+segafilm.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/segafilm.c
+END
+segafilm.d
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/segafilm.d
+END
+flacenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/flacenc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/Makefile
+END
+cdg.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/cdg.c
+END
+rtpenc_h263.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpenc_h263.c
+END
+cdg.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/cdg.d
+END
+flacenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/flacenc.h
+END
+dv.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/dv.c
+END
+librtmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/librtmp.c
+END
+movenchint.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/movenchint.c
+END
+dv.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/dv.d
+END
+oggparseogm.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggparseogm.c
+END
+smjpegenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/smjpegenc.c
+END
+oggparseogm.d
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggparseogm.d
+END
+rtpenc_mpv.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpenc_mpv.c
+END
+dv.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/dv.h
+END
+mpegenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mpegenc.c
+END
+flacdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/flacdec.c
+END
+flacdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/flacdec.d
+END
+ingenientdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ingenientdec.c
+END
+ingenientdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ingenientdec.d
+END
+libmodplug.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/libmodplug.c
+END
+smjpegdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/smjpegdec.c
+END
+smjpegdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/smjpegdec.d
+END
+http.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/http.c
+END
+mmf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mmf.c
+END
+mmf.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mmf.d
+END
+http.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/http.h
+END
+mkvtimestamp_v2.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mkvtimestamp_v2.c
+END
+r3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/r3d.c
+END
+r3d.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/r3d.d
+END
+rtpenc_h264.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpenc_h264.c
+END
+avisynth.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avisynth.c
+END
+anm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/anm.c
+END
+anm.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/anm.d
+END
+rtpdec_formats.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec_formats.h
+END
+adtsenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/adtsenc.c
+END
+swfenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/swfenc.c
+END
+mxf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mxf.c
+END
+mvi.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mvi.c
+END
+mxf.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mxf.d
+END
+thp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/thp.c
+END
+mvi.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mvi.d
+END
+thp.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/thp.d
+END
+flv.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/flv.h
+END
+avio.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avio.c
+END
+avio.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avio.d
+END
+mp3.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mp3.c
+END
+mxf.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mxf.h
+END
+avio.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avio.h
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/cache.c
+END
+rtpenc_latm.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpenc_latm.c
+END
+asf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/asf.c
+END
+asf.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/asf.d
+END
+swfdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/swfdec.c
+END
+swfdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/83/trunk/source/mplayer/ffmpeg/libavformat/swfdec.d
+END
+asf.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/asf.h
+END
+mmst.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mmst.c
+END
+electronicarts.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/electronicarts.c
+END
+electronicarts.d
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/electronicarts.d
+END
+ffmenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ffmenc.c
+END
+h263dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/h263dec.c
+END
+mpegts.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mpegts.c
+END
+h263dec.d
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/h263dec.d
+END
+mpegts.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mpegts.d
+END
+mpegts.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mpegts.h
+END
+pmpdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/pmpdec.c
+END
+sox.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/sox.h
+END
+mpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mpc.c
+END
+mpc.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mpc.d
+END
+ffmdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ffmdec.c
+END
+ffmdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ffmdec.d
+END
+hls.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/hls.c
+END
+seek.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/seek.c
+END
+seek.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/seek.d
+END
+mov_chan.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mov_chan.c
+END
+a64.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/a64.c
+END
+mov_chan.d
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mov_chan.d
+END
+mxg.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mxg.c
+END
+seek.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/seek.h
+END
+mxg.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mxg.d
+END
+libnut.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/libnut.c
+END
+crcenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/crcenc.c
+END
+img2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/img2.c
+END
+mov_chan.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mov_chan.h
+END
+img2.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/img2.d
+END
+g729dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/g729dec.c
+END
+mpc8.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mpc8.c
+END
+mpc8.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mpc8.d
+END
+qtpalette.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/qtpalette.h
+END
+bit.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/bit.c
+END
+matroska.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/matroska.c
+END
+matroska.d
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/matroska.d
+END
+lmlm4.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/lmlm4.c
+END
+matroska.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/matroska.h
+END
+lmlm4.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/lmlm4.d
+END
+voc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/voc.c
+END
+voc.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/voc.d
+END
+ffmetaenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ffmetaenc.c
+END
+rtpdec_h263_rfc2190.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec_h263_rfc2190.c
+END
+voc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/voc.h
+END
+wav.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/wav.c
+END
+wav.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/wav.d
+END
+bfi.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/bfi.c
+END
+bfi.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/bfi.d
+END
+matroskaenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/matroskaenc.c
+END
+avc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avc.c
+END
+ncdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ncdec.c
+END
+ncdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ncdec.d
+END
+ffmetadec.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ffmetadec.c
+END
+avc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avc.h
+END
+rtspenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtspenc.c
+END
+ffmetadec.d
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ffmetadec.d
+END
+rtpenc_vp8.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpenc_vp8.c
+END
+avs.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avs.c
+END
+vc1test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/vc1test.c
+END
+avs.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avs.d
+END
+vc1test.d
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/vc1test.d
+END
+matroskadec.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/matroskadec.c
+END
+matroskadec.d
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/41/trunk/source/mplayer/ffmpeg/libavformat/matroskadec.d
+END
+rtpenc_h263_rfc2190.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpenc_h263_rfc2190.c
+END
+rtspdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtspdec.c
+END
+qcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/qcp.c
+END
+latmenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/latmenc.c
+END
+qcp.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/qcp.d
+END
+rtmppkt.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtmppkt.c
+END
+mov.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mov.c
+END
+mov.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/41/trunk/source/mplayer/ffmpeg/libavformat/mov.d
+END
+rtmppkt.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtmppkt.h
+END
+riff.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/riff.c
+END
+riff.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/riff.d
+END
+tta.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/tta.c
+END
+tta.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/tta.d
+END
+riff.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/riff.h
+END
+h264dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/h264dec.c
+END
+rl2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rl2.c
+END
+dvenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/dvenc.c
+END
+h264dec.d
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/h264dec.d
+END
+rl2.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rl2.d
+END
+flacenc_header.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/flacenc_header.c
+END
+dtsdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/dtsdec.c
+END
+dtsdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/dtsdec.d
+END
+mm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mm.c
+END
+mm.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mm.d
+END
+oggparseskeleton.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggparseskeleton.c
+END
+oggparseskeleton.d
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggparseskeleton.d
+END
+amr.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/amr.c
+END
+amr.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/amr.d
+END
+rtpenc_xiph.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpenc_xiph.c
+END
+sbgdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/sbgdec.c
+END
+asfcrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/asfcrypt.c
+END
+asfcrypt.d
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/asfcrypt.d
+END
+asfcrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/asfcrypt.h
+END
+g723_1.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/g723_1.c
+END
+rtpdec_qdm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec_qdm2.c
+END
+xwma.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/xwma.c
+END
+xwma.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/xwma.d
+END
+id3v2enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/id3v2enc.c
+END
+crypto.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/crypto.c
+END
+gxf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/gxf.c
+END
+smacker.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/smacker.c
+END
+gxf.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/gxf.d
+END
+smacker.d
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/smacker.d
+END
+mpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mpeg.c
+END
+mpeg.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mpeg.d
+END
+libavformat.v
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/libavformat.v
+END
+network.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/network.c
+END
+gxf.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/gxf.h
+END
+network.d
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/network.d
+END
+mpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mpeg.h
+END
+rtpdec_svq3.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec_svq3.c
+END
+rpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rpl.c
+END
+network.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/network.h
+END
+rpl.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rpl.d
+END
+oggenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggenc.c
+END
+mmsh.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mmsh.c
+END
+4xm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/4xm.c
+END
+4xm.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/4xm.d
+END
+daud.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/daud.c
+END
+os_support.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/os_support.c
+END
+daud.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/daud.d
+END
+os_support.d
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/os_support.d
+END
+os_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/os_support.h
+END
+ac3dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ac3dec.c
+END
+ac3dec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ac3dec.d
+END
+srtdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/srtdec.c
+END
+srtdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/srtdec.d
+END
+idcin.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/idcin.c
+END
+idcin.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/idcin.d
+END
+oggdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggdec.c
+END
+oggdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggdec.d
+END
+cdxl.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/cdxl.c
+END
+oggparsevorbis.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggparsevorbis.c
+END
+sol.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/sol.c
+END
+oggdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggdec.h
+END
+oggparsevorbis.d
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggparsevorbis.d
+END
+sol.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/sol.d
+END
+asfenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/asfenc.c
+END
+yop.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/yop.c
+END
+yop.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/yop.d
+END
+rawenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rawenc.c
+END
+img2enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/img2enc.c
+END
+avformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avformat.h
+END
+rawenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rawenc.h
+END
+asfdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/asfdec.c
+END
+asfdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/asfdec.d
+END
+adxdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/adxdec.c
+END
+msnwc_tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/msnwc_tcp.c
+END
+msnwc_tcp.d
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/msnwc_tcp.d
+END
+soxenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/soxenc.c
+END
+rawdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rawdec.c
+END
+avienc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avienc.c
+END
+rawdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rawdec.d
+END
+avienc.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avienc.d
+END
+isom.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/isom.c
+END
+isom.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/isom.d
+END
+md5proto.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/md5proto.c
+END
+metadata-example.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/metadata-example.c
+END
+img2dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/img2dec.c
+END
+avlanguage.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avlanguage.c
+END
+rawdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rawdec.h
+END
+img2dec.d
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/img2dec.d
+END
+avlanguage.d
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avlanguage.d
+END
+isom.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/isom.h
+END
+assenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/assenc.c
+END
+avlanguage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avlanguage.h
+END
+cafenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/cafenc.c
+END
+mp3enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mp3enc.c
+END
+soxdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/soxdec.c
+END
+soxdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/soxdec.d
+END
+siff.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/siff.c
+END
+siff.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/siff.d
+END
+jvdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/jvdec.c
+END
+avidec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avidec.c
+END
+rawvideodec.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rawvideodec.c
+END
+jvdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/jvdec.d
+END
+avidec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avidec.d
+END
+rawvideodec.d
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rawvideodec.d
+END
+tiertexseq.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/tiertexseq.c
+END
+bluray.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/bluray.c
+END
+tiertexseq.d
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/tiertexseq.d
+END
+assdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/assdec.c
+END
+assdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/assdec.d
+END
+seek-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/seek-test.c
+END
+westwood_aud.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/westwood_aud.c
+END
+cafdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/cafdec.c
+END
+westwood_aud.d
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/westwood_aud.d
+END
+cafdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/cafdec.d
+END
+xmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/xmv.c
+END
+xmv.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/xmv.d
+END
+mp3dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mp3dec.c
+END
+mp3dec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mp3dec.d
+END
+oggparsecelt.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggparsecelt.c
+END
+yuv4mpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/yuv4mpeg.c
+END
+oggparsecelt.d
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/oggparsecelt.d
+END
+yuv4mpeg.d
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/yuv4mpeg.d
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/internal.h
+END
+rtpdec_h263.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec_h263.c
+END
+mpegtsenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/mpegtsenc.c
+END
+aea.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/aea.c
+END
+aea.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/aea.d
+END
+nullenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/nullenc.c
+END
+iv8.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/iv8.c
+END
+act.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/act.c
+END
+iv8.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/iv8.d
+END
+dsicin.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/dsicin.c
+END
+dsicin.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/dsicin.d
+END
+md5enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/md5enc.c
+END
+bintext.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/bintext.c
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/version.h
+END
+aiffenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/aiffenc.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/utils.c
+END
+utils.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/utils.d
+END
+httpauth.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/httpauth.c
+END
+segment.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/segment.c
+END
+rmenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rmenc.c
+END
+httpauth.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/httpauth.h
+END
+sapenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/sapenc.c
+END
+bethsoftvid.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/bethsoftvid.c
+END
+aiffdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/aiffdec.c
+END
+bethsoftvid.d
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/bethsoftvid.d
+END
+aiffdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/aiffdec.d
+END
+westwood_vqa.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/westwood_vqa.c
+END
+westwood_vqa.d
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/westwood_vqa.d
+END
+rtpdec_h264.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec_h264.c
+END
+rtpdec_qt.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec_qt.c
+END
+rtsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtsp.c
+END
+rsoenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rsoenc.c
+END
+rmdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rmdec.c
+END
+rmdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rmdec.d
+END
+rtsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtsp.h
+END
+sapdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/sapdec.c
+END
+aacdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/aacdec.c
+END
+aacdec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/aacdec.d
+END
+omaenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/omaenc.c
+END
+rtpdec_asf.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec_asf.c
+END
+rsodec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rsodec.c
+END
+rsodec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rsodec.d
+END
+icodec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/icodec.c
+END
+omadec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/omadec.c
+END
+omadec.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/omadec.d
+END
+vqf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/vqf.c
+END
+vqf.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/vqf.d
+END
+rtpdec_latm.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/rtpdec_latm.c
+END
+apetag.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/apetag.c
+END
+apetag.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/apetag.d
+END
+apetag.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/apetag.h
+END
+ffmeta.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ffmeta.h
+END
+ipmovie.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ipmovie.c
+END
+xa.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/xa.c
+END
+ipmovie.d
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/ipmovie.d
+END
+xa.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/xa.d
+END
+avi.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avi.c
+END
+avi.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/avi.h
+END
+sdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/sdp.c
+END
+vorbiscomment.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/vorbiscomment.c
+END
+sdp.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/sdp.d
+END
+vorbiscomment.d
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/vorbiscomment.d
+END
+vorbiscomment.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/vorbiscomment.h
+END
+filmstripenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/filmstripenc.c
+END
+aiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavformat/aiff.h
+END

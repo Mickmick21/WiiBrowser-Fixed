@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav
+END
+dvdnav.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/dvdnav.c
+END
+dvdnav_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/dvdnav_internal.h
+END
+dvdnav.d
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/dvdnav.d
+END
+README.MAP
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/README.MAP
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/Makefile.am
+END
+read_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/read_cache.c
+END
+read_cache.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/read_cache.d
+END
+navigation.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/navigation.c
+END
+navigation.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/navigation.d
+END
+settings.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/settings.c
+END
+settings.d
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/settings.d
+END
+searching.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/searching.c
+END
+read_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/read_cache.h
+END
+remap.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/remap.c
+END
+searching.d
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/searching.d
+END
+remap.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/remap.d
+END
+FELLOWSHIP.map
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/FELLOWSHIP.map
+END
+highlight.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/highlight.c
+END
+highlight.d
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/highlight.d
+END
+remap.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdnav/remap.h
+END

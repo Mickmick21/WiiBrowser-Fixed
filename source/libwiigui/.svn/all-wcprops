@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/130/trunk/source/libwiigui
+END
+gui_text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/116/trunk/source/libwiigui/gui_text.cpp
+END
+gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/130/trunk/source/libwiigui/gui.h
+END
+gui_sound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/113/trunk/source/libwiigui/gui_sound.cpp
+END
+gui_element.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/130/trunk/source/libwiigui/gui_element.cpp
+END
+gui_tooltip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/119/trunk/source/libwiigui/gui_tooltip.cpp
+END
+gui_frameimage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/64/trunk/source/libwiigui/gui_frameimage.cpp
+END
+gui_keyboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/128/trunk/source/libwiigui/gui_keyboard.cpp
+END
+gui_switch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/73/trunk/source/libwiigui/gui_switch.cpp
+END
+gui_frameimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/64/trunk/source/libwiigui/gui_frameimage.h
+END
+gui_toolbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/115/trunk/source/libwiigui/gui_toolbar.cpp
+END
+gui_trigger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/73/trunk/source/libwiigui/gui_trigger.cpp
+END
+gui_longtext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/115/trunk/source/libwiigui/gui_longtext.cpp
+END
+gui_window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/101/trunk/source/libwiigui/gui_window.cpp
+END
+gui_download.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/122/trunk/source/libwiigui/gui_download.cpp
+END
+gui_longtext.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/64/trunk/source/libwiigui/gui_longtext.h
+END
+document.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/73/trunk/source/libwiigui/document.cpp
+END
+gui_button.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/130/trunk/source/libwiigui/gui_button.cpp
+END
+gui_optionbrowser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/119/trunk/source/libwiigui/gui_optionbrowser.cpp
+END
+gui_imagedata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/113/trunk/source/libwiigui/gui_imagedata.cpp
+END
+gui_favorite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/113/trunk/source/libwiigui/gui_favorite.cpp
+END
+document.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/73/trunk/source/libwiigui/document.h
+END
+gui_image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/85/trunk/source/libwiigui/gui_image.cpp
+END
+gui_filebrowser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/98/trunk/source/libwiigui/gui_filebrowser.cpp
+END

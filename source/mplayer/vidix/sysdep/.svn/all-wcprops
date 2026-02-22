@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep
+END
+pci_sparc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_sparc.c
+END
+pci_mach386.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_mach386.c
+END
+pci_386bsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_386bsd.c
+END
+pci_freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_freebsd.c
+END
+libdha_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/libdha_win32.c
+END
+libdha_os2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/libdha_os2.c
+END
+pci_isc.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_isc.c
+END
+libdha_win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/libdha_win32.h
+END
+pci_netbsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_netbsd.c
+END
+pci_powerpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_powerpc.c
+END
+pci_bsdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_bsdi.c
+END
+AsmMacros_ia64.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/AsmMacros_ia64.h
+END
+pci_sco.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_sco.c
+END
+pci_arm32.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_arm32.c
+END
+pci_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_alpha.c
+END
+pci_x86.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_x86.c
+END
+AsmMacros_sparc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/AsmMacros_sparc.h
+END
+pci_lynx.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_lynx.c
+END
+pci_openbsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_openbsd.c
+END
+AsmMacros_powerpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/AsmMacros_powerpc.h
+END
+pci_svr4.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_svr4.c
+END
+pci_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_linux.c
+END
+pci_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_win32.c
+END
+pci_os2.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_os2.c
+END
+pci_ia64.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/pci_ia64.c
+END
+AsmMacros_arm32.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/AsmMacros_arm32.h
+END
+AsmMacros_alpha.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/AsmMacros_alpha.h
+END
+AsmMacros_x86.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sysdep/AsmMacros_x86.h
+END

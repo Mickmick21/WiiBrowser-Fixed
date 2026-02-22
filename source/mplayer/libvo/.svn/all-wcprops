@@ -1,0 +1,641 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/40/trunk/source/mplayer/libvo
+END
+vo_ivtv.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_ivtv.c
+END
+video_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/video_out.c
+END
+vo_corevideo.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_corevideo.m
+END
+vo_pnm.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_pnm.c
+END
+video_out.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/video_out.d
+END
+sdl_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/sdl_common.h
+END
+vo_pnm.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_pnm.d
+END
+vo_zr.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_zr.c
+END
+vo_ivtv.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_ivtv.h
+END
+video_out.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/video_out.h
+END
+vo_matrixview.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_matrixview.c
+END
+vo_xvr100.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_xvr100.c
+END
+vo_zr.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_zr.h
+END
+vo_svga.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_svga.c
+END
+aclib_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/aclib_template.c
+END
+vo_fbdev2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_fbdev2.c
+END
+vo_null.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_null.c
+END
+vo_null.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_null.d
+END
+vo_zr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_zr2.c
+END
+w32_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/w32_common.c
+END
+vo_dxr3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_dxr3.c
+END
+w32_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/w32_common.h
+END
+vo_jpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_jpeg.c
+END
+vo_fbdev.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_fbdev.c
+END
+wskeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/wskeys.h
+END
+vo_gif89a.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_gif89a.c
+END
+geometry.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/geometry.c
+END
+vo_v4l2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_v4l2.c
+END
+geometry.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/geometry.d
+END
+vo_wii.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_wii.c
+END
+video_out_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/video_out_internal.h
+END
+mga_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/mga_template.c
+END
+vo_fbdev.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_fbdev.h
+END
+geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/geometry.h
+END
+vo_v4l2.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_v4l2.h
+END
+vo_xmga.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_xmga.c
+END
+vo_s3fb.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_s3fb.c
+END
+vo_winvidix.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_winvidix.c
+END
+vo_direct3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_direct3d.c
+END
+csputils.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/csputils.c
+END
+vo_directx.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_directx.c
+END
+vo_3dfx.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_3dfx.c
+END
+aclib.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/aclib.c
+END
+csputils.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/csputils.h
+END
+aclib.d
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/aclib.d
+END
+vo_x11.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_x11.c
+END
+fastmemcpy.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/fastmemcpy.h
+END
+vesa_lvo.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vesa_lvo.c
+END
+aspecttest.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/aspecttest.c
+END
+gtf.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/gtf.c
+END
+vesa_lvo.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vesa_lvo.h
+END
+vo_vdpau.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_vdpau.c
+END
+gtf.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/gtf.h
+END
+vo_aa.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_aa.c
+END
+vo_gl2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_gl2.c
+END
+vo_quartz.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_quartz.c
+END
+vo_dga.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_dga.c
+END
+matrixview.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/matrixview.c
+END
+vosub_vidix.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vosub_vidix.c
+END
+vo_xv.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_xv.c
+END
+vo_gekko.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_gekko.c
+END
+matrixview.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/matrixview.h
+END
+vo_gekko.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_gekko.d
+END
+vosub_vidix.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vosub_vidix.h
+END
+vo_gl.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_gl.c
+END
+vo_mga.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_mga.c
+END
+vo_ggi.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_ggi.c
+END
+jpeg_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/jpeg_enc.c
+END
+gl_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/gl_common.c
+END
+vo_md5sum.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_md5sum.c
+END
+vo_tga.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_tga.c
+END
+aspect.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/aspect.c
+END
+jpeg_enc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/jpeg_enc.h
+END
+gl_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/gl_common.h
+END
+aspect.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/aspect.d
+END
+vo_tga.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_tga.d
+END
+x11_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/x11_common.c
+END
+osx_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/osx_common.c
+END
+vo_tdfxfb.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_tdfxfb.c
+END
+vo_dxr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_dxr2.c
+END
+aspect.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/aspect.h
+END
+vo_dfbmga.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_dfbmga.c
+END
+osx_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/osx_common.h
+END
+x11_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/x11_common.h
+END
+vo_dxr2.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_dxr2.h
+END
+vo_caca.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_caca.c
+END
+videodev_mjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/videodev_mjpeg.h
+END
+vo_bl.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_bl.c
+END
+vo_vesa.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_vesa.c
+END
+vo_mpegpes.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_mpegpes.c
+END
+vo_mpegpes.d
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_mpegpes.d
+END
+vo_xover.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_xover.c
+END
+vo_directfb2.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_directfb2.c
+END
+vo_tdfx_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_tdfx_vid.c
+END
+vo_xvidix.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_xvidix.c
+END
+vo_xvmc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_xvmc.c
+END
+vo_yuv4mpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_yuv4mpeg.c
+END
+vo_mng.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_mng.c
+END
+vo_kva.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_kva.c
+END
+vo_sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_sdl.c
+END
+vo_png.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_png.c
+END
+vo_corevideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_corevideo.h
+END
+vo_png.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_png.d
+END
+sdl_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/sdl_common.c
+END
+vo_cvidix.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/vo_cvidix.c
+END
+matrixview_font.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libvo/matrixview_font.h
+END

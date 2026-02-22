@@ -1,0 +1,677 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/83/trunk/source/mplayer
+END
+mp_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/source/mplayer/mp_msg.c
+END
+xvid_vbr.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/xvid_vbr.c
+END
+mp_msg.d
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/source/mplayer/mp_msg.d
+END
+metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/metadata.h
+END
+mp_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/source/mplayer/mp_msg.h
+END
+xvid_vbr.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/xvid_vbr.h
+END
+mp_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/mp_core.h
+END
+parser-mpcmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/parser-mpcmd.c
+END
+parser-mpcmd.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/parser-mpcmd.d
+END
+config.mak
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/config.mak
+END
+parser-mpcmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/parser-mpcmd.h
+END
+mp_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/source/mplayer/mp_global.h
+END
+asxparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/source/mplayer/asxparser.c
+END
+fmt-conversion.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/fmt-conversion.c
+END
+asxparser.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/source/mplayer/asxparser.d
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/source/mplayer/config.h
+END
+fmt-conversion.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/fmt-conversion.d
+END
+bstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/source/mplayer/bstr.c
+END
+av_opts.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/av_opts.c
+END
+bstr.d
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/source/mplayer/bstr.d
+END
+av_opts.d
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/av_opts.d
+END
+asxparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/source/mplayer/asxparser.h
+END
+fmt-conversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/fmt-conversion.h
+END
+command.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/command.c
+END
+parser-mecmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/parser-mecmd.c
+END
+bstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/source/mplayer/bstr.h
+END
+command.d
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/command.d
+END
+av_opts.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/av_opts.h
+END
+cpudetect.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/source/mplayer/cpudetect.c
+END
+cpudetect.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/source/mplayer/cpudetect.d
+END
+command.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/command.h
+END
+mixer.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/40/trunk/source/mplayer/mixer.c
+END
+parser-mecmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/parser-mecmd.h
+END
+mixer.d
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/40/trunk/source/mplayer/mixer.d
+END
+cpudetect.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/source/mplayer/cpudetect.h
+END
+av_helpers.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/av_helpers.c
+END
+av_helpers.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/av_helpers.d
+END
+mixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/40/trunk/source/mplayer/mixer.h
+END
+subopt-helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/subopt-helper.c
+END
+help_mp.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/help_mp.h
+END
+subopt-helper.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/subopt-helper.d
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/source/mplayer/Makefile
+END
+av_helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/av_helpers.h
+END
+subopt-helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/subopt-helper.h
+END
+m_struct.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/m_struct.c
+END
+m_struct.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/m_struct.d
+END
+edl.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/40/trunk/source/mplayer/edl.c
+END
+edl.d
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/40/trunk/source/mplayer/edl.d
+END
+m_struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/m_struct.h
+END
+access_mpcontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/access_mpcontext.h
+END
+edl.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/40/trunk/source/mplayer/edl.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/source/mplayer/README
+END
+mpbswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/mpbswap.h
+END
+m_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/m_config.c
+END
+m_config.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/m_config.d
+END
+udp_sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/udp_sync.c
+END
+playtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/playtree.c
+END
+mpcommon.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/mpcommon.c
+END
+udp_sync.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/udp_sync.d
+END
+mp_osd.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/source/mplayer/mp_osd.h
+END
+playtree.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/playtree.d
+END
+m_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/m_config.h
+END
+mpcommon.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/mpcommon.d
+END
+Copyright
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/Copyright
+END
+codecs.conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/codecs.conf.h
+END
+parser-cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/parser-cfg.c
+END
+udp_sync.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/udp_sync.h
+END
+parser-cfg.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/parser-cfg.d
+END
+mpcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/mpcommon.h
+END
+playtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/playtree.h
+END
+mencoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/mencoder.c
+END
+path.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/source/mplayer/path.c
+END
+path.d
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/source/mplayer/path.d
+END
+parser-cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/parser-cfg.h
+END
+m_property.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/m_property.c
+END
+mencoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/mencoder.h
+END
+path.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/source/mplayer/path.h
+END
+m_property.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/m_property.d
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/40/trunk/source/mplayer/LICENSE
+END
+cpuinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/cpuinfo.c
+END
+m_property.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/m_property.h
+END
+cfg-mplayer-def.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/cfg-mplayer-def.h
+END
+version.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/version.sh
+END
+mp_fifo.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/mp_fifo.c
+END
+pnm_loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/pnm_loader.c
+END
+mp_fifo.d
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/mp_fifo.d
+END
+pnm_loader.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/pnm_loader.d
+END
+m_option.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/m_option.c
+END
+mp_fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/mp_fifo.h
+END
+m_option.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/m_option.d
+END
+pnm_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/pnm_loader.h
+END
+mp_strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/mp_strings.c
+END
+mp_strings.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/mp_strings.d
+END
+m_option.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/m_option.h
+END
+mp_strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/mp_strings.h
+END
+cfg-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/cfg-common.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/version.h
+END
+cfg-mencoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/cfg-mencoder.h
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/configure
+END
+playtreeparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/playtreeparser.c
+END
+playtreeparser.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/playtreeparser.d
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/40/trunk/source/mplayer/AUTHORS
+END
+Changelog
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/Changelog
+END
+playtreeparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/playtreeparser.h
+END
+mangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/source/mplayer/mangle.h
+END
+mplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/50/trunk/source/mplayer/mplayer.c
+END
+codec-cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/source/mplayer/codec-cfg.c
+END
+mplayer.d
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/mplayer.d
+END
+codec-cfg.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/source/mplayer/codec-cfg.d
+END
+cfg-mplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/cfg-mplayer.h
+END
+mplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/mplayer.h
+END
+codec-cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/source/mplayer/codec-cfg.h
+END

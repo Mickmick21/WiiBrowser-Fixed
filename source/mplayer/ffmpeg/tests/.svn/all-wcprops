@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests
+END
+lena.pnm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/lena.pnm
+END
+fate-update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate-update.sh
+END
+fate-valgrind.supp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate-valgrind.supp
+END
+ffserver-regression.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/ffserver-regression.sh
+END
+rotozoom.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/rotozoom.c
+END
+audiogen.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/audiogen.c
+END
+ffserver.regression.ref
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/ffserver.regression.ref
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/Makefile
+END
+lavf-regression.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/lavf-regression.sh
+END
+videogen.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/videogen.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/utils.c
+END
+copycooker.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/copycooker.sh
+END
+fate_config.sh.template
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate_config.sh.template
+END
+fate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate.sh
+END
+lavfi-regression.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/lavfi-regression.sh
+END
+fate-run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/fate-run.sh
+END
+md5.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/md5.sh
+END
+regression-funcs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/regression-funcs.sh
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/base64.c
+END
+tiny_psnr.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/tiny_psnr.c
+END
+ffserver.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/tests/ffserver.conf
+END

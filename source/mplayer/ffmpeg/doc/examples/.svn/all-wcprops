@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/examples
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/examples/Makefile
+END
+metadata.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/examples/metadata.c
+END
+decoding_encoding.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/examples/decoding_encoding.c
+END
+filtering_audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/examples/filtering_audio.c
+END
+muxing.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/examples/muxing.c
+END
+filtering_video.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/examples/filtering_video.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/127/trunk/forwarder/source
+END
+dolloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/84/trunk/forwarder/source/dolloader.c
+END
+devicemounter.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/84/trunk/forwarder/source/devicemounter.c
+END
+dolloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/84/trunk/forwarder/source/dolloader.h
+END
+devicemounter.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/84/trunk/forwarder/source/devicemounter.h
+END
+filelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/84/trunk/forwarder/source/filelist.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/127/trunk/forwarder/source/main.c
+END

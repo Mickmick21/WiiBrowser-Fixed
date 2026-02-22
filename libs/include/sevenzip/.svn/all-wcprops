@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/126/trunk/libs/include/sevenzip
+END
+7zAlloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/126/trunk/libs/include/sevenzip/7zAlloc.h
+END
+LzmaDec.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/126/trunk/libs/include/sevenzip/LzmaDec.h
+END
+7zItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/126/trunk/libs/include/sevenzip/7zItem.h
+END
+Bcj2.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/126/trunk/libs/include/sevenzip/Bcj2.h
+END
+CpuArch.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/126/trunk/libs/include/sevenzip/CpuArch.h
+END
+7zIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/126/trunk/libs/include/sevenzip/7zIn.h
+END
+7zCrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/126/trunk/libs/include/sevenzip/7zCrc.h
+END
+7zExtract.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/126/trunk/libs/include/sevenzip/7zExtract.h
+END
+7zBuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/126/trunk/libs/include/sevenzip/7zBuf.h
+END
+7zFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/126/trunk/libs/include/sevenzip/7zFile.h
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/126/trunk/libs/include/sevenzip/Types.h
+END
+Bra.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/126/trunk/libs/include/sevenzip/Bra.h
+END
+7zDecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/126/trunk/libs/include/sevenzip/7zDecode.h
+END
+7zVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/126/trunk/libs/include/sevenzip/7zVersion.h
+END
+7zHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/126/trunk/libs/include/sevenzip/7zHeader.h
+END

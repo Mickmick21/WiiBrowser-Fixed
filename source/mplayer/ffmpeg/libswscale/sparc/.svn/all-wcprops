@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswscale/sparc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswscale/sparc/Makefile
+END
+yuv2rgb_vis.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswscale/sparc/yuv2rgb_vis.c
+END

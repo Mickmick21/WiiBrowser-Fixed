@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4
+END
+nav_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/nav_read.c
+END
+nav_read.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/nav_read.d
+END
+bswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/bswap.h
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/md5.c
+END
+md5.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/md5.d
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/Makefile.am
+END
+ifo_print.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/ifo_print.c
+END
+ifo_print.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/ifo_print.d
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/md5.h
+END
+dvd_input.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvd_input.c
+END
+dvd_input.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvd_input.d
+END
+dvd_reader.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvd_reader.c
+END
+dvd_reader.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvd_reader.d
+END
+nav_print.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/nav_print.c
+END
+nav_print.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/nav_print.d
+END
+bitreader.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/bitreader.c
+END
+dvd_input.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvd_input.h
+END
+bitreader.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/bitreader.d
+END
+ifo_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/ifo_read.c
+END
+ifo_read.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/ifo_read.d
+END
+dvdread_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvdread_internal.h
+END
+dvd_udf.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvd_udf.c
+END
+dvd_udf.d
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/libdvdread4/dvd_udf.d
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/40/trunk/source/mplayer/etc
+END
+example.conf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/etc/example.conf
+END
+dvb-menu.conf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/etc/dvb-menu.conf
+END
+mplayer.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/etc/mplayer.desktop
+END
+mplayer.ico
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/etc/mplayer.ico
+END
+input.conf
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/etc/input.conf
+END
+codecs.conf
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/etc/codecs.conf
+END
+inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/etc/inttypes.h
+END
+menu.conf
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/etc/menu.conf
+END
+mplayer.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/etc/mplayer.png
+END
+mplayer.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/etc/mplayer.xpm
+END

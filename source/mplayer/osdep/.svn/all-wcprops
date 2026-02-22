@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/83/trunk/source/mplayer/osdep
+END
+macosx_finder_args.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/macosx_finder_args.c
+END
+timer-win2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/timer-win2.c
+END
+timer-darwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/timer-darwin.c
+END
+macosx_finder_args.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/macosx_finder_args.h
+END
+mem_index.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/mem_index.c
+END
+mmap_anon.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/mmap_anon.c
+END
+mem_index.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/mem_index.d
+END
+getch2-win.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/getch2-win.c
+END
+mmap_anon.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/mmap_anon.h
+END
+mem_index.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/mem_index.h
+END
+keycodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/keycodes.h
+END
+ave-rvl.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/ave-rvl.c
+END
+getch2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/getch2.c
+END
+getch2-os2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/getch2-os2.c
+END
+ave-rvl.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/ave-rvl.d
+END
+timer-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/timer-linux.c
+END
+glob-win.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/glob-win.c
+END
+osdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/osdep.h
+END
+strsep.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/strsep.c
+END
+priority.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/priority.c
+END
+getch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/getch2.h
+END
+ave-rvl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/ave-rvl.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/timer.h
+END
+strsep.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/strsep.h
+END
+gx_supp.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/83/trunk/source/mplayer/osdep/gx_supp.c
+END
+gx_supp.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/gx_supp.d
+END
+priority.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/priority.h
+END
+glob.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/glob.h
+END
+gx_supp.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/gx_supp.h
+END
+mplayer.rc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/mplayer.rc
+END
+mmap-os2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/mmap-os2.c
+END
+mmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/mmap.h
+END
+glob_gekko.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/glob_gekko.c
+END
+vsscanf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/vsscanf.c
+END
+setenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/setenv.c
+END
+glob_gekko.d
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/glob_gekko.d
+END
+shmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/shmem.c
+END
+setenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/setenv.h
+END
+getch2-gekko.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/getch2-gekko.c
+END
+getch2-gekko.d
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/getch2-gekko.d
+END
+shmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/shmem.h
+END
+timer-gekko.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/timer-gekko.c
+END
+timer-gekko.d
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/timer-gekko.d
+END
+gettimeofday.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/osdep/gettimeofday.c
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/40/trunk/source/mplayer/debian
+END
+mplayer-doc.doc-base.en
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer-doc.doc-base.en
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/debian/rules
+END
+mplayer-doc.doc-base.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer-doc.doc-base.cs
+END
+mplayer.preinst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer.preinst
+END
+mplayer.conf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer.conf
+END
+mplayer-gui.menu
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer-gui.menu
+END
+mplayer-doc.doc-base.es
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer-doc.doc-base.es
+END
+mplayer-doc.doc-base.fr
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer-doc.doc-base.fr
+END
+mplayer.mime
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer.mime
+END
+mplayer-doc.doc-base.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer-doc.doc-base.pl
+END
+mplayer-doc.doc-base.hu
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer-doc.doc-base.hu
+END
+mplayer-doc.docs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer-doc.docs
+END
+daily-build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/debian/daily-build.sh
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/debian/copyright
+END
+mplayer-doc.doc-base.ru
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer-doc.doc-base.ru
+END
+mplayer.install
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer.install
+END
+mplayer-doc.doc-base.de
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer-doc.doc-base.de
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/debian/control
+END
+mplayer-gui.mime
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer-gui.mime
+END
+mplayer-dbg.links
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer-dbg.links
+END
+clean
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/debian/clean
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/debian/compat
+END
+mplayer.examples
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/debian/mplayer.examples
+END

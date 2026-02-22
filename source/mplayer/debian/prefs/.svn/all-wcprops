@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/debian/prefs
+END
+codecs_list
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/debian/prefs/codecs_list
+END
+mirrors
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/debian/prefs/mirrors
+END
+MD5SUMS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/debian/prefs/MD5SUMS
+END

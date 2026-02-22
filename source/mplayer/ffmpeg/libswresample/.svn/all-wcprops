@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample
+END
+dither.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/dither.c
+END
+swresample_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/swresample_test.c
+END
+swresample.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/swresample.c
+END
+audioconvert.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/audioconvert.c
+END
+resample_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/resample_template.c
+END
+swresample_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/swresample_internal.h
+END
+rematrix_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/rematrix_template.c
+END
+audioconvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/audioconvert.h
+END
+swresample.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/swresample.h
+END
+resample.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/resample.c
+END
+rematrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/rematrix.c
+END
+libswresample.v
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/libswresample.v
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/Makefile
+END

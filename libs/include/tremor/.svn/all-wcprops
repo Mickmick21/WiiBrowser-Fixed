@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/124/trunk/libs/include/tremor
+END
+config_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/124/trunk/libs/include/tremor/config_types.h
+END
+ivorbiscodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/124/trunk/libs/include/tremor/ivorbiscodec.h
+END
+ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/124/trunk/libs/include/tremor/ogg.h
+END
+ivorbisfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/124/trunk/libs/include/tremor/ivorbisfile.h
+END
+os_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/124/trunk/libs/include/tremor/os_types.h
+END

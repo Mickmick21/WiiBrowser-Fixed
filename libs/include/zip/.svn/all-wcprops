@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/126/trunk/libs/include/zip
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/126/trunk/libs/include/zip/ioapi.h
+END
+crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/126/trunk/libs/include/zip/crypt.h
+END
+zip.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/126/trunk/libs/include/zip/zip.h
+END
+unzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/126/trunk/libs/include/zip/unzip.h
+END

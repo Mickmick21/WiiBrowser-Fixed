@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/tests/ref/zmbv
+END
+wc2_001-partial.avi.md5
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/40/trunk/source/mplayer/tests/ref/zmbv/wc2_001-partial.avi.md5
+END
+zmbv_32bit.avi.md5
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/tests/ref/zmbv/zmbv_32bit.avi.md5
+END
+zmbv_15bit.avi.md5
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/tests/ref/zmbv/zmbv_15bit.avi.md5
+END
+zmbv_16bit.avi.md5
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/tests/ref/zmbv/zmbv_16bit.avi.md5
+END

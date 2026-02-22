@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/124/trunk/libs/include/fribidi
+END
+fribidi-mirroring.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-mirroring.h
+END
+fribidi-joining-types-list.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-joining-types-list.h
+END
+fribidi-unicode-version.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-unicode-version.h
+END
+fribidi-bidi-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-bidi-types.h
+END
+fribidi-arabic.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-arabic.h
+END
+fribidi-enddecls.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-enddecls.h
+END
+fribidi-bidi-types-list.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-bidi-types-list.h
+END
+fribidi-unicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-unicode.h
+END
+fribidi-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-common.h
+END
+fribidi-char-sets.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-char-sets.h
+END
+fribidi-flags.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-flags.h
+END
+fribidi-joining.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-joining.h
+END
+fribidi-joining-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-joining-types.h
+END
+fribidi-begindecls.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-begindecls.h
+END
+fribidi-shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-shape.h
+END
+fribidi-deprecated.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-deprecated.h
+END
+fribidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi.h
+END
+fribidi-char-sets-list.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-char-sets-list.h
+END
+fribidi-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-types.h
+END
+fribidi-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-config.h
+END
+fribidi-bidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/124/trunk/libs/include/fribidi/fribidi-bidi.h
+END

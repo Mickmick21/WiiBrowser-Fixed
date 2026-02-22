@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/xml/xsl
+END
+ldp-html-chunk.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/xml/xsl/ldp-html-chunk.xsl
+END
+ldp-html-common.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/xml/xsl/ldp-html-common.xsl
+END
+ldp-print.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/xml/xsl/ldp-print.xsl
+END
+ldp-html.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/xml/xsl/ldp-html.xsl
+END

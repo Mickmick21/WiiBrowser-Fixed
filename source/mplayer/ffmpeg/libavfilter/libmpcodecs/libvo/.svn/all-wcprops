@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavfilter/libmpcodecs/libvo
+END
+fastmemcpy.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavfilter/libmpcodecs/libvo/fastmemcpy.h
+END
+video_out.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavfilter/libmpcodecs/libvo/video_out.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/40/trunk/source/mplayer/rpm
+END
+mplayer-codecs.spec
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/rpm/mplayer-codecs.spec
+END
+mplayer.spec
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/rpm/mplayer.spec
+END

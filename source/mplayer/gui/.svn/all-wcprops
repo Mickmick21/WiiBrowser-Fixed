@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/40/trunk/source/mplayer/gui
+END
+cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/gui/cfg.c
+END
+app.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/gui/app.c
+END
+interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/gui/interface.c
+END
+bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/gui/bitmap.h
+END
+cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/gui/cfg.h
+END
+interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/gui/interface.h
+END
+app.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/source/mplayer/gui/app.h
+END
+bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/gui/bitmap.c
+END

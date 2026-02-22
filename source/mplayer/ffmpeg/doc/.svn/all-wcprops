@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc
+END
+soc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/soc.txt
+END
+errno.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/errno.txt
+END
+avserver.texi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/avserver.texi
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/TODO
+END
+avprobe.texi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/avprobe.texi
+END
+ffserver.conf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/ffserver.conf
+END
+texi2pod.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/texi2pod.pl
+END
+ffmpeg.texi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/ffmpeg.texi
+END
+ffmpeg-doc.texi
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/ffmpeg-doc.texi
+END
+swscale.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/swscale.txt
+END
+faq.texi
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/faq.texi
+END
+ffprobe.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/ffprobe.xsd
+END
+avserver.conf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/avserver.conf
+END
+viterbi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/viterbi.txt
+END
+avutil.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/avutil.txt
+END
+ffmpeg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/ffmpeg.txt
+END
+fate.texi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/fate.texi
+END
+rate_distortion.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/rate_distortion.txt
+END
+ffplay.texi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/ffplay.texi
+END
+bitstream_filters.texi
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/bitstream_filters.texi
+END
+ffprobe.texi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/ffprobe.texi
+END
+ffplay-doc.texi
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/ffplay-doc.texi
+END
+protocols.texi
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/protocols.texi
+END
+platform.texi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/platform.texi
+END
+filter_design.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/filter_design.txt
+END
+multithreading.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/multithreading.txt
+END
+ffprobe-doc.texi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/ffprobe-doc.texi
+END
+eval.texi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/eval.texi
+END
+git-howto.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/git-howto.txt
+END
+tablegen.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/tablegen.txt
+END
+outdevs.texi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/outdevs.texi
+END
+APIchanges
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/APIchanges
+END
+snow.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/snow.txt
+END
+demuxers.texi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/demuxers.texi
+END
+avplay.texi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/avplay.texi
+END
+optimization.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/optimization.txt
+END
+avtools-common-opts.texi
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/avtools-common-opts.texi
+END
+encoders.texi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/encoders.texi
+END
+libavfilter.texi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/libavfilter.texi
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/Makefile
+END
+filters.texi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/filters.texi
+END
+issue_tracker.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/issue_tracker.txt
+END
+build_system.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/build_system.txt
+END
+general.texi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/general.texi
+END
+RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/RELEASE_NOTES
+END
+metadata.texi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/metadata.texi
+END
+print_options.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/print_options.c
+END
+git-howto.texi
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/git-howto.texi
+END
+ffserver.texi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/ffserver.texi
+END
+muxers.texi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/muxers.texi
+END
+developer.texi
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/developer.texi
+END
+ffserver-doc.texi
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/ffserver-doc.texi
+END
+syntax.texi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/syntax.texi
+END
+t2h.init
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/t2h.init
+END
+swresample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/swresample.txt
+END
+indevs.texi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/indevs.texi
+END
+decoders.texi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/doc/decoders.texi
+END

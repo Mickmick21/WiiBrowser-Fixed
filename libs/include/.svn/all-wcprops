@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/126/trunk/libs/include
+END
+ft2build.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/124/trunk/libs/include/ft2build.h
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/124/trunk/libs/include/jmorecfg.h
+END
+netdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/124/trunk/libs/include/netdb.h
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/124/trunk/libs/include/jpeglib.h
+END
+mxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/124/trunk/libs/include/mxml.h
+END
+iconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/124/trunk/libs/include/iconv.h
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/124/trunk/libs/include/zconf.h
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/124/trunk/libs/include/jconfig.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/124/trunk/libs/include/zlib.h
+END
+pnglibconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/124/trunk/libs/include/pnglibconf.h
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/124/trunk/libs/include/jerror.h
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/126/trunk/libs/include/png.h
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/126/trunk/libs/include/pngconf.h
+END

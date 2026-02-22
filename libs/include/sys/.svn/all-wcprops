@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/124/trunk/libs/include/sys
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/124/trunk/libs/include/sys/socket.h
+END
+ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/124/trunk/libs/include/sys/ioctl.h
+END
+uio.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/124/trunk/libs/include/sys/uio.h
+END
+select.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/124/trunk/libs/include/sys/select.h
+END

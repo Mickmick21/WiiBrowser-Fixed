@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/loader/dmo
+END
+dmo.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/loader/dmo/dmo.h
+END
+DMO_AudioDecoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/loader/dmo/DMO_AudioDecoder.c
+END
+dmo_interfaces.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/source/mplayer/loader/dmo/dmo_interfaces.h
+END
+DMO_Filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/loader/dmo/DMO_Filter.h
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/loader/dmo/buffer.c
+END
+dmo_guids.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/loader/dmo/dmo_guids.c
+END
+DMO_AudioDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/loader/dmo/DMO_AudioDecoder.h
+END
+DMO_VideoDecoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/loader/dmo/DMO_VideoDecoder.c
+END
+dmo.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/loader/dmo/dmo.c
+END
+dmo_guids.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/loader/dmo/dmo_guids.h
+END
+DMO_VideoDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/source/mplayer/loader/dmo/DMO_VideoDecoder.h
+END

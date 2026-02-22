@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavcodec/mips
+END
+mathops.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavcodec/mips/mathops.h
+END
+mpegvideo_mmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavcodec/mips/mpegvideo_mmi.c
+END
+idct_mmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavcodec/mips/idct_mmi.c
+END
+dsputil_mmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavcodec/mips/dsputil_mmi.c
+END
+mmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavcodec/mips/mmi.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavcodec/mips/Makefile
+END

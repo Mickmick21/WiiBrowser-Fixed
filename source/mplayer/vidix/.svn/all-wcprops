@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/40/trunk/source/mplayer/vidix
+END
+s3_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/s3_vid.c
+END
+AsmMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/AsmMacros.h
+END
+sis_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sis_vid.c
+END
+pm2_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/pm2_vid.c
+END
+pm3_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/pm3_vid.c
+END
+README.dha
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/README.dha
+END
+radeon_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/radeon_vid.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/pci.c
+END
+rage128_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/rage128_vid.c
+END
+pci.db
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/pci.db
+END
+unichrome_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/unichrome_regs.h
+END
+sis_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sis_regs.h
+END
+vidix.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/vidix.c
+END
+fourcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/fourcc.h
+END
+mach64.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/mach64.h
+END
+vidix.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/vidix.h
+END
+ivtv_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/ivtv_vid.c
+END
+sh_veu_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sh_veu_vid.c
+END
+unichrome_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/unichrome_vid.c
+END
+dha.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/dha.c
+END
+cyberblade_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/cyberblade_vid.c
+END
+dha.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/dha.h
+END
+glint_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/glint_regs.h
+END
+pci_names.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/pci_names.h
+END
+mga_crtc2_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/mga_crtc2_vid.c
+END
+sis_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sis_defs.h
+END
+pci_db2c.awk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/pci_db2c.awk
+END
+mga_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/mga_vid.c
+END
+sis_bridge.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sis_bridge.c
+END
+s3_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/s3_regs.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/README
+END
+nvidia_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/nvidia_vid.c
+END
+radeon.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/radeon.h
+END
+drivers.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/drivers.c
+END
+sis_bridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/sis_bridge.h
+END
+cyberblade_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/cyberblade_regs.h
+END
+drivers.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/drivers.h
+END
+mach64_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/mach64_vid.c
+END
+mtrr.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/mtrr.c
+END
+pm3_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/vidix/pm3_regs.h
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/126/trunk/libs/wii
+END
+libmxml.a
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/124/trunk/libs/wii/libmxml.a
+END
+libiconv.a
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/124/trunk/libs/wii/libiconv.a
+END
+liblua.a
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/124/trunk/libs/wii/liblua.a
+END
+libfreetype.a
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/126/trunk/libs/wii/libfreetype.a
+END
+libpng.a
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/126/trunk/libs/wii/libpng.a
+END
+libjpeg.a
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/124/trunk/libs/wii/libjpeg.a
+END
+libunrar.a
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/126/trunk/libs/wii/libunrar.a
+END
+libvorbisidec.a
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/124/trunk/libs/wii/libvorbisidec.a
+END
+libexif.a
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/124/trunk/libs/wii/libexif.a
+END
+libnetport.a
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/124/trunk/libs/wii/libnetport.a
+END
+libcyassl.a
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/124/trunk/libs/wii/libcyassl.a
+END
+libzip.a
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/126/trunk/libs/wii/libzip.a
+END
+libsevenzip.a
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/126/trunk/libs/wii/libsevenzip.a
+END
+libcurl.a
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/124/trunk/libs/wii/libcurl.a
+END
+libfribidi.a
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/124/trunk/libs/wii/libfribidi.a
+END
+libz.a
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/124/trunk/libs/wii/libz.a
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/realcodecs
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/realcodecs/TODO
+END
+streaming.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/realcodecs/streaming.txt
+END
+audio-codecs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/realcodecs/audio-codecs.txt
+END
+video-codecs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/40/trunk/source/mplayer/DOCS/tech/realcodecs/video-codecs.txt
+END

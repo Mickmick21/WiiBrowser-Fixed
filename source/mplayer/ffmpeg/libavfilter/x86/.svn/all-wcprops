@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavfilter/x86
+END
+gradfun.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavfilter/x86/gradfun.c
+END
+yadif_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavfilter/x86/yadif_template.c
+END
+yadif.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavfilter/x86/yadif.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libavfilter/x86/Makefile
+END

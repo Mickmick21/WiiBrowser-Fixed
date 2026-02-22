@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/source/mplayer/tests/ref/h264
+END
+interlaced_crop.mp4.md5
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/40/trunk/source/mplayer/tests/ref/h264/interlaced_crop.mp4.md5
+END
+extreme-plane-pred.h264.md5
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/40/trunk/source/mplayer/tests/ref/h264/extreme-plane-pred.h264.md5
+END
+lossless.h264.md5
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/source/mplayer/tests/ref/h264/lossless.h264.md5
+END

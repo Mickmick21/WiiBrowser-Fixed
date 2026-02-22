@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/x86
+END
+swresample_x86.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/x86/swresample_x86.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/x86/Makefile
+END
+audio_convert.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/40/trunk/source/mplayer/ffmpeg/libswresample/x86/audio_convert.asm
+END

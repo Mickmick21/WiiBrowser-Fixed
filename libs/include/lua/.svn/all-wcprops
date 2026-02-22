@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/124/trunk/libs/include/lua
+END
+lstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/124/trunk/libs/include/lua/lstring.h
+END
+lobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/124/trunk/libs/include/lua/lobject.h
+END
+lundump.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/124/trunk/libs/include/lua/lundump.h
+END
+lapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/124/trunk/libs/include/lua/lapi.h
+END
+lcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/124/trunk/libs/include/lua/lcode.h
+END
+luaconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/124/trunk/libs/include/lua/luaconf.h
+END
+lmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/124/trunk/libs/include/lua/lmem.h
+END
+ltm.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/124/trunk/libs/include/lua/ltm.h
+END
+lstate.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/124/trunk/libs/include/lua/lstate.h
+END
+lvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/124/trunk/libs/include/lua/lvm.h
+END
+lauxlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/124/trunk/libs/include/lua/lauxlib.h
+END
+ldebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/124/trunk/libs/include/lua/ldebug.h
+END
+ltable.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/124/trunk/libs/include/lua/ltable.h
+END
+llex.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/124/trunk/libs/include/lua/llex.h
+END
+lgc.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/124/trunk/libs/include/lua/lgc.h
+END
+lfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/124/trunk/libs/include/lua/lfunc.h
+END
+lparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/124/trunk/libs/include/lua/lparser.h
+END
+lualib.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/124/trunk/libs/include/lua/lualib.h
+END
+lopcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/124/trunk/libs/include/lua/lopcodes.h
+END
+lzio.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/124/trunk/libs/include/lua/lzio.h
+END
+llimits.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/124/trunk/libs/include/lua/llimits.h
+END
+ldo.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/124/trunk/libs/include/lua/ldo.h
+END
+lua.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/124/trunk/libs/include/lua/lua.h
+END

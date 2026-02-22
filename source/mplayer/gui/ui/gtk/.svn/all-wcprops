@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk
+END
+url.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/url.h
+END
+skinbrowser.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/skinbrowser.c
+END
+menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/menu.h
+END
+about.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/about.c
+END
+skinbrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/skinbrowser.h
+END
+fileselect.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/fileselect.c
+END
+about.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/about.h
+END
+fileselect.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/fileselect.h
+END
+msgbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/msgbox.c
+END
+tools.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/tools.c
+END
+playlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/playlist.c
+END
+equalizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/equalizer.c
+END
+preferences.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/preferences.c
+END
+url.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/url.c
+END
+msgbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/msgbox.h
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/menu.c
+END
+tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/tools.h
+END
+equalizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/equalizer.h
+END
+preferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/preferences.h
+END
+playlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/source/mplayer/gui/ui/gtk/playlist.h
+END

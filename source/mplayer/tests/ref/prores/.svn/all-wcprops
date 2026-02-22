@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/source/mplayer/tests/ref/prores
+END
+Sequence_1-Apple_ProRes_422_HQ.mov.md5
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/40/trunk/source/mplayer/tests/ref/prores/Sequence_1-Apple_ProRes_422_HQ.mov.md5
+END
+Sequence_1-Apple_ProRes_with_Alpha.mov.md5
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/40/trunk/source/mplayer/tests/ref/prores/Sequence_1-Apple_ProRes_with_Alpha.mov.md5
+END
+Sequence_1-Apple_ProRes_422_LT.mov.md5
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/40/trunk/source/mplayer/tests/ref/prores/Sequence_1-Apple_ProRes_422_LT.mov.md5
+END
+Sequence_1-Apple_ProRes_422.mov.md5
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/40/trunk/source/mplayer/tests/ref/prores/Sequence_1-Apple_ProRes_422.mov.md5
+END
+Sequence_1-Apple_ProRes_422_Proxy.mov.md5
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/40/trunk/source/mplayer/tests/ref/prores/Sequence_1-Apple_ProRes_422_Proxy.mov.md5
+END
